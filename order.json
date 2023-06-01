@@ -1,0 +1,44 @@
+{
+    "orders": [
+        {
+            "modelName": "Suzuky",
+            "name": "vlad",
+            "price": "1200000"
+        },
+        {
+            "modelName": "Suzuky",
+            "name": "test",
+            "price": "1200000"
+        },
+        {
+            "modelName": "Mayky",
+            "name": "vlad",
+            "price": "1200000"
+        },
+        {
+            "modelName": "Figuki",
+            "name": "test",
+            "price": "1200000"
+        },
+        {
+            "modelName": "Figuki",
+            "name": "vlad",
+            "price": "1200000"
+        },
+        {
+            "modelName": "Suzuki",
+            "name": "000000",
+            "price": "120000000000000000"
+        },
+        {
+            "modelName": "Mayky",
+            "name": "000000",
+            "price": "1200000"
+        },
+        {
+            "modelName": "Figuki",
+            "name": "000000",
+            "price": "1200000"
+        }
+    ]
+}

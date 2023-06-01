@@ -1,0 +1,26 @@
+{
+    "products": [
+        {
+            "description": {
+                "color": "Красный",
+                "country": "Япония",
+                "hp": "200"
+            },
+            "id": "1",
+            "image": "hyabasa.jpg",
+            "name": "Suzuki",
+            "price": "12"
+        },
+        {
+            "description": {
+                "color": "Красный",
+                "country": "Япония",
+                "hp": "200"
+            },
+            "id": "3",
+            "image": "hyabasa.jpg",
+            "name": "Figuki",
+            "price": "1200000"
+        }
+    ]
+}
